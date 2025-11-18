@@ -17,6 +17,7 @@ wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-Superhero.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
