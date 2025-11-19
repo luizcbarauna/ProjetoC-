@@ -42,7 +42,7 @@ namespace SalesWebMvc.Controllers
 
             return View(department);
         }
-
+    
         // GET: Departments/Create
         public IActionResult Create()
         {
